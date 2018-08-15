@@ -13,6 +13,7 @@ Please feel free to submit a PR with suggestions of topics to add.
 * Code smells, naming practices, code style etc ?
 * Bug reporting: how to write a good bug report ?
 * Pair programming
+* requirement analysis
 
 
 
